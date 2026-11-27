@@ -4,7 +4,7 @@ Sistema de consola en Python para administrar clientes, buses, ciudades, viajes 
 
 ## Integrantes
 - Caleb Tirado
-- Joaquin Tirado
+- Joaquin Fuentes
 
 ## Instalacion y ejecucion
 1. Instalar las dependencias:
