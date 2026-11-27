@@ -1,0 +1,5 @@
+id_pasaje,id_viaje,id_cliente,id_origen,id_destino,asiento,valor,estado
+PAS-1,VIA-1,CLI-1,CIU-0,CIU-1,1,12000.0,VIGENTE
+PAS-2,VIA-1,CLI-2,CIU-2,CIU-5,1,16000.0,VIGENTE
+PAS-3,VIA-1,CLI-3,CIU-0,CIU-5,5,20000.0,VIGENTE
+PAS-4,VIA-1,CLI-4,CIU-1,CIU-3,8,14000.0,ANULADO

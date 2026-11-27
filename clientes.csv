@@ -1,0 +1,5 @@
+id_cliente,rut,nombres,apellido_paterno,apellido_materno,contacto
+CLI-1,19.456.789-2,Camila Andrea,Soto,Rojas,+56987654321
+CLI-2,20.123.456-7,Matias Ignacio,Perez,Munoz,+56976543210
+CLI-3,18.987.654-3,Valentina Paz,Contreras,Diaz,+56965432109
+CLI-4,21.345.678-9,Diego Alonso,Gomez,Silva,+56954321098

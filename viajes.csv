@@ -1,0 +1,3 @@
+id_viaje,id_bus,fecha,hora,id_origen,id_destino,tarifa_base
+VIA-1,BUS-1,2026-12-01,08:30,CIU-0,CIU-5,20000.0
+VIA-2,BUS-2,2026-12-01,15:00,CIU-5,CIU-0,20000.0
